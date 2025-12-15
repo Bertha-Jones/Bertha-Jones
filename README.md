@@ -19,13 +19,13 @@
 I'm a Frontend Engineer and UI/UX Designer who enjoys turning ideas into visually appealing, user-friendly digital experiences.  
 I specialize in building both **mobile and web interfaces** that focus on clarity, accessibility, and modern design principles.
 
-- 🔧 Tech: React, React Native, TypeScript, Expo, GraphQL  
-- 🎨 Design: Figma, prototyping, wireframes, user flows  
-- 💡 Interested in: design systems, micro-interactions, and product design  
-- 🚀 Currently working on: professional portfolio + multiple React Native projects  
-- 🌱 Always learning and improving both design and engineering skills
+-  Tech: React, React Native, TypeScript, Expo, GraphQL  
+-  Design: Figma, prototyping, wireframes, user flows  
+-  Interested in: design systems, micro-interactions, and product design  
+-  Currently working on: professional portfolio + multiple React Native projects  
+-  Always learning and improving both design and engineering skills
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Frontend & Mobile**
 <p>
@@ -41,9 +41,9 @@ I specialize in building both **mobile and web interfaces** that focus on clarit
 <p>
   <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
 </p>
-## 🚀 Featured Projects
+## Featured Projects
 
-### **📦 Gathr Delivery App**
+### ** Gathr Delivery App**
 A mobile delivery platform supporting rider logistics, order tracking, live updates, and a smooth customer → rider workflow.
 
 **Tech:** React Native, Expo, Supabase  
@@ -51,7 +51,7 @@ A mobile delivery platform supporting rider logistics, order tracking, live upda
 🔗 **Repo:** https://github.com/Gathr-Online/gathr-delivery-app
 
 
-### **🌐 Gathr 2.0 — Social + Commerce Superapp**
+### ** Gathr 2.0 — Social + Commerce Superapp**
 A multi-feature mobile app combining posts, messaging, e-commerce,  and community features in one platform.
 
 **Tech:** React Native, Expo Router, GraphQL, Firebase  
@@ -60,7 +60,7 @@ A multi-feature mobile app combining posts, messaging, e-commerce,  and communit
 
 
 
-### **🏢 Merson Developers Website**
+### ** Merson Developers Website**
 A modern real-estate website designed to showcase projects, property listings, and company details with a clean corporate feel.
 
 **Tech:** React, TypeScript, TailwindCSS  
@@ -69,22 +69,15 @@ A modern real-estate website designed to showcase projects, property listings, a
 
 
 
-### **🏥 MCL Health Platform**
+### ** MCL Health Platform**
 A healthcare web platform with tools for patient engagement, service listings, and essential feature pages.
 
 **Tech:** React, TypeScript, TailwindCSS  
 **My Work:** Page layouts, component structure, refined UI styles  
 🔗 **Repo:** https://github.com/sammyjay076/MCL
 
-## 📊 GitHub Insights
+##  GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bertha-Jones&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bertha-Jones" alt="GitHub streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bertha-Jones&layout=compact" alt="Top languages" />
